@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a2392fe3-2460-4513-849a-57fcbb0039f3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kS0392LC6K4pEaiCHOUBYhxqjy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Documents/sw/android_sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.PowerfulExcelWriting" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\TonyStark\ExcelHandling\PowerfulExcelWriting\src\test\java\com\PowerfulExcelWriting" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ExcelReporting03">
+    <configuration name="ExcelReporting01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.PowerfulExcelWriting.ExcelReporting01" />
+      <module name="PowerfulExcelWriting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.PowerfulExcelWriting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExcelReporting02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.PowerfulExcelWriting.ExcelReporting02" />
+      <module name="PowerfulExcelWriting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExcelReporting03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.PowerfulExcelWriting.ExcelReporting03" />
+      <module name="PowerfulExcelWriting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExcelReporting03" />
+        <item itemvalue="Application.ExcelReporting02" />
+        <item itemvalue="Application.ExcelReporting01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2392fe3-2460-4513-849a-57fcbb0039f3" name="Default Changelist" comment="" />
+      <created>1603682992968</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603682992968</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="425" y="376" width="892" height="308" key="#xdebugger.evaluate" timestamp="1605813324953">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="425" y="376" width="892" height="308" key="#xdebugger.evaluate/0.0.1366.738@0.0.1366.738" timestamp="1605813324953" />
+    <state width="1323" height="126" key="GridCell.Tab.0.bottom" timestamp="1606062880458">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="126" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1606062880458" />
+    <state width="1323" height="126" key="GridCell.Tab.0.center" timestamp="1606062880458">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="126" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1606062880458" />
+    <state width="1323" height="126" key="GridCell.Tab.0.left" timestamp="1606062880458">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="126" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1606062880458" />
+    <state width="1323" height="126" key="GridCell.Tab.0.right" timestamp="1606062880458">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="126" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1606062880458" />
+    <state width="1323" height="126" key="GridCell.Tab.1.bottom" timestamp="1606062880458">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="126" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1606062880458" />
+    <state width="1323" height="126" key="GridCell.Tab.1.center" timestamp="1606062880458">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="126" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1606062880458" />
+    <state width="1323" height="126" key="GridCell.Tab.1.left" timestamp="1606062880458">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="126" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1606062880458" />
+    <state width="1323" height="126" key="GridCell.Tab.1.right" timestamp="1606062880458">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="126" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1606062880458" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1605679100337">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1605679100337" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1605809759404">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1605809759404" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/PowerfulExcelWriting/Util02_XLReading.java</url>
+          <line>153</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/PowerfulExcelWriting/ExcelReporting03.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
